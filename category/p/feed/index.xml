@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Proposals &#8211; Dallas Matthews | Marketing Agency</title>
+	<atom:link href="/category/p/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Marketing and Design Services</description>
+	<lastBuildDate>Tue, 21 May 2019 16:15:55 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/9/2019/05/megaphone_128.png</url>
+	<title>Proposals &#8211; Dallas Matthews | Marketing Agency</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Protected: DM105: EloLemosClinic.co.uk</title>
+		<link>/dm105-elolemosclinic-co-uk/</link>
+					<comments>/dm105-elolemosclinic-co-uk/#respond</comments>
+		
+		<dc:creator><![CDATA[Al Elliott]]></dc:creator>
+		<pubDate>Tue, 21 May 2019 15:40:18 +0000</pubDate>
+				<category><![CDATA[Proposals]]></category>
+		<guid isPermaLink="false">/?p=5100</guid>
+
+					<description><![CDATA[There is no excerpt because this is a protected post.]]></description>
+		
+					<wfw:commentRss>/dm105-elolemosclinic-co-uk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

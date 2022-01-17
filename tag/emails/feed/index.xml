@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>emails &#8211; Dallas Matthews | Marketing Agency</title>
+	<atom:link href="/tag/emails/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Marketing and Design Services</description>
+	<lastBuildDate>Sat, 09 Jul 2011 07:51:04 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/9/2019/05/megaphone_128.png</url>
+	<title>emails &#8211; Dallas Matthews | Marketing Agency</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fancy a fry up?</title>
+		<link>/fancy-a-fry-up/</link>
+					<comments>/fancy-a-fry-up/#respond</comments>
+		
+		<dc:creator><![CDATA[Al Elliott]]></dc:creator>
+		<pubDate>Sat, 09 Jul 2011 07:51:04 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[emails]]></category>
+		<guid isPermaLink="false">DallasMatthews.co.uk/?p=2268</guid>
+
+					<description><![CDATA[Heard of &#8216;Bacn&#8217;? * Its the term for email that is not unwanted but mainly goes unread. It may be ... <p class="read-more-container"><a title="Fancy a fry up?" class="read-more button" href="/fancy-a-fry-up/#more-2268">Read more<span class="screen-reader-text">Fancy a fry up?</span></a></p> <p class="read-more-button-container"><a class="button" href="/fancy-a-fry-up/">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>/fancy-a-fry-up/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Who wants a copy of the Metro? (It&#8217;s free&#8230;)</title>
+		<link>/unwanted-metro-newspaper/</link>
+					<comments>/unwanted-metro-newspaper/#respond</comments>
+		
+		<dc:creator><![CDATA[Al Elliott]]></dc:creator>
+		<pubDate>Thu, 13 Jan 2011 14:18:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[email marketing]]></category>
+		<category><![CDATA[emails]]></category>
+		<guid isPermaLink="false">DallasMatthews.co.uk/?p=1278</guid>
+
+					<description><![CDATA[I remember when people paid for newspapers. Now, it seems, they can&#8217;t even give them away. The problem was, when newspapers ... <p class="read-more-container"><a title="Who wants a copy of the Metro? (It&#8217;s free&#8230;)" class="read-more button" href="/unwanted-metro-newspaper/#more-1278">Read more<span class="screen-reader-text">Who wants a copy of the Metro? (It&#8217;s free&#8230;)</span></a></p> <p class="read-more-button-container"><a class="button" href="/unwanted-metro-newspaper/">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>/unwanted-metro-newspaper/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

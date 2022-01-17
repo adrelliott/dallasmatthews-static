@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>digital marketing &#8211; Dallas Matthews | Marketing Agency</title>
+	<atom:link href="/tag/digital-marketing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Marketing and Design Services</description>
+	<lastBuildDate>Wed, 01 Dec 2010 11:18:00 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/9/2019/05/megaphone_128.png</url>
+	<title>digital marketing &#8211; Dallas Matthews | Marketing Agency</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Manchester Digital Event</title>
+		<link>/manchester-digital-event/</link>
+					<comments>/manchester-digital-event/#respond</comments>
+		
+		<dc:creator><![CDATA[Al Elliott]]></dc:creator>
+		<pubDate>Wed, 01 Dec 2010 11:18:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[digital marketing]]></category>
+		<guid isPermaLink="false">DallasMatthews.co.uk/?p=1214</guid>
+
+					<description><![CDATA[We were at the Manchester Digital event last night. Really, really good. If you are interested in Digital marketing you ... <p class="read-more-container"><a title="Manchester Digital Event" class="read-more button" href="/manchester-digital-event/#more-1214">Read more<span class="screen-reader-text">Manchester Digital Event</span></a></p> <p class="read-more-button-container"><a class="button" href="/manchester-digital-event/">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>/manchester-digital-event/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Only Way That Local Retailers Can compete With Tesco…..</title>
+		<link>/the-only-way-that-local-retailers-can-compete-with-tesco/</link>
+					<comments>/the-only-way-that-local-retailers-can-compete-with-tesco/#respond</comments>
+		
+		<dc:creator><![CDATA[Al Elliott]]></dc:creator>
+		<pubDate>Tue, 30 Nov 2010 11:43:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[CRM]]></category>
+		<category><![CDATA[digital marketing]]></category>
+		<category><![CDATA[email marketing]]></category>
+		<category><![CDATA[retail]]></category>
+		<guid isPermaLink="false">DallasMatthews.co.uk/?p=1146</guid>
+
+					<description><![CDATA[Back in October, the UK’s largest independent chain of Green Grocers, Stokes, went into administration. Media coverage suggests that Stokes ... <p class="read-more-container"><a title="The Only Way That Local Retailers Can compete With Tesco….." class="read-more button" href="/the-only-way-that-local-retailers-can-compete-with-tesco/#more-1146">Read more<span class="screen-reader-text">The Only Way That Local Retailers Can compete With Tesco…..</span></a></p> <p class="read-more-button-container"><a class="button" href="/the-only-way-that-local-retailers-can-compete-with-tesco/">Read more</a></p>]]></description>
+		
+					<wfw:commentRss>/the-only-way-that-local-retailers-can-compete-with-tesco/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

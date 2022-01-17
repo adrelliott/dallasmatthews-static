@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://dallasmatthews.co.uk/wp-content/uploads/2010/11/Gmail-Inbox-Mail-preview-300x135.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://dallasmatthews.co.uk/wp-content/uploads/2010/11/Gmail-Inbox-Mail-preview-300x135.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="https://dallasmatthews.co.uk/wp-content/uploads/2010/11/Gmail-Inbox-Mail-preview-300x135.jpg">https://dallasmatthews.co.uk/wp-content/uploads/2010/11/Gmail-Inbox-Mail-preview-300x135.jpg</a></p>
+	</body>
+</html>

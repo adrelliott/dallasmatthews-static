@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pricing &#8211; Dallas Matthews | Marketing Agency</title>
+	<atom:link href="/tag/pricing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Marketing and Design Services</description>
+	<lastBuildDate>Tue, 13 Feb 2018 08:31:20 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/9/2019/05/megaphone_128.png</url>
+	<title>Pricing &#8211; Dallas Matthews | Marketing Agency</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The biggest mistake I ever made with pricing</title>
+		<link>/the-biggest-mistake-i-ever-made-with-pricing/</link>
+		
+		<dc:creator><![CDATA[Al Elliott]]></dc:creator>
+		<pubDate>Tue, 13 Feb 2018 08:31:20 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Gimmesomebeer]]></category>
+		<category><![CDATA[Pricing]]></category>
+		<guid isPermaLink="false">https://www.dallasmatthews.co.uk/?p=4819</guid>
+
+					<description><![CDATA[
+				You probably already know my story.
+In fact, you probably already know that in my 20’s I thought I was a pretty cool and successful businessman and I had it all worked out.
+I was neither of those things and it was down to one stupid mistake I continued to make from the moment I set up my business until the day I went personally bankrupt for £103,000.		 <p class="read-more-button-container"><a class="button" href="/the-biggest-mistake-i-ever-made-with-pricing/">Read more</a></p>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

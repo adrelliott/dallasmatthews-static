@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://dallasmatthews.co.uk/wp-content/uploads/2011/02/email-150x150.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://dallasmatthews.co.uk/wp-content/uploads/2011/02/email-150x150.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="https://dallasmatthews.co.uk/wp-content/uploads/2011/02/email-150x150.jpg">https://dallasmatthews.co.uk/wp-content/uploads/2011/02/email-150x150.jpg</a></p>
+	</body>
+</html>

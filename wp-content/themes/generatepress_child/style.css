@@ -1,0 +1,39 @@
+/*
+ Theme Name:   GeneratePress Child
+ Theme URI:    https://generatepress.com
+ Description:  Default GeneratePress child theme
+ Author:       Tom Usborne
+ Author URI:   https://tomusborne.com
+ Template:     generatepress
+ Version:      0.1
+*/
+
+
+
+/** 
+*  Edit the standard Gravity Form validation message
+*/
+.gform_wrapper div.validation_error {
+color: #ed1c24 !important;
+font-size: 100% !important;
+font-weight: normal !important;
+border: 1px solid #ed1c24 !important;
+padding: 10px !important;
+max-width: 75%;
+margin: 5px auto;  
+}
+.gform_wrapper div.gfield_description.validation_message {
+  color: #ed1c24;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.gform_wrapper li.gfield_error input[type="email"],
+.gform_wrapper li.gfield_error input[type="number"],
+.gform_wrapper li.gfield_error input[type="password"],
+.gform_wrapper li.gfield_error input[type="tel"],
+.gform_wrapper li.gfield_error input[type="text"],
+.gform_wrapper li.gfield_error input[type="url"],
+.gform_wrapper li.gfield_error textarea {
+border: 1px solid #000;
+}
